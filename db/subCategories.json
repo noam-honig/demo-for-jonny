@@ -1,0 +1,26 @@
+[
+  {
+    "id": "clhp11wl40002lor38ins0bw4",
+    "name": "long shirts",
+    "enable": false,
+    "category": "clhp11wl00000lor341jr1tdx"
+  },
+  {
+    "id": "clhp11wl50003lor3e9bt7puw",
+    "name": "short shirts",
+    "enable": false,
+    "category": "clhp11wl00000lor341jr1tdx"
+  },
+  {
+    "id": "clhp11wl60004lor34pqf8ofv",
+    "name": "long pants",
+    "enable": false,
+    "category": "clhp11wl30001lor38dyjb9cj"
+  },
+  {
+    "id": "clhp11wl70005lor396rv58at",
+    "name": "short pants",
+    "enable": false,
+    "category": "clhp11wl30001lor38dyjb9cj"
+  }
+]
